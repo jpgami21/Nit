@@ -1,6 +1,6 @@
 1. Install Python from microsoft store 
    https://www.microsoft.com/en-us/p/python-38/9mssztt1n39l
-2. Use Proxy Gen and make HTTP proxies.
+2. open the Folder Proxy Gen and run Proxy Gen and make HTTP proxies then copy them into ProxiesHTTP.
 3. Run Setup.bat
 4. Run Run.bat
    
