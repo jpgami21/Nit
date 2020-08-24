@@ -1,21 +1,19 @@
 # Nit
-🕷️ Features
-Detect Type of gift
-Target informations gatherings
-Multi-threading on demand
-Gifts Checker
-Codes Generator
-⚠️ Warning!
-I Am Not Responsible of any Illegal Use!
+1. Install Python
+2. Install PIP
+3. Use Proxy Gen and make HTTP proxies.
+3. Download these Plugins for PIP:
+   -requests
+   -fake_useragent
+   -tqdm
+4. To run the programm press WIN+R on your keyoard then type cmd
+   after that a black window should appear then type in where its located as an example:
+   C:\Users\Jpgami21\Desktop\Nit. When you have navigated to the folder Type in
+   Python Nit.py
+   
+PS: it is normal when there are bunch of question marks at the begining
 
-🕷️ Contribution & License
-You can contribute in following ways:
 
-Report bugs & add issues
-Search for new vulnerability
-Develop plugins
-Searching Exploits
-Give suggestions (Ideas) to make it better
-Do you want to have a conversation in private? Discord : Jpgami21#1574
+   Have fun :)
 
-Nitrx is licensed under GPL-3.0 License
+If you Need help DM me Jpgami21#1574
